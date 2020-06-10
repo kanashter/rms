@@ -10,7 +10,7 @@
 3. [Usage](#usage)
 4. [Function List](#function-list)
 5. [The Work File](#the-work-file)
-6. [Suggested future actions](suggested-future-actions)
+6. [Suggested future actions](#suggested-future-actions)
 
 ### Introduction
 The following scripts are designed to take information from the RMS based properties in the WMGNZ portfolio.<br>These scripts are run in an [Anaconda](https://anaconda.org), [Python 3](https://python.org) environment.
@@ -19,9 +19,9 @@ For a full list of environment requirements please refer to the [requirements fi
 ### Installation
 
 The base requirements are as follows
-- [Anaconda](anaconda.org)
-- [Atom](atom.org)
-- [Hydrogen](link) addon
+- [Anaconda](https://anaconda.org)
+- [Atom](https://atom.io)
+- [Hydrogen](https://atom.io/packages/hydrogen) addon
 - Windows based system
 
 Extract al files and folder from the releases page, and set up and new anaconda environment based on the [requirements.txt](requirements.txt) file.
